@@ -43,6 +43,6 @@ public class Main {
         foo();
         foo(3000);
         foo(3000, 4000);
-        // Arguments are actual!
+        // Arguments are actual
     }
 }
