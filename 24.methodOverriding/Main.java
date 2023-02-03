@@ -9,6 +9,9 @@ class A{
 }
 
 class B extends A{
+    
+    // Override annotation is optional and it's use it that it throws error and saves us from confusion 
+
     // @Override
     // public void zephyrus(){
     //     System.out.println("I am method 2 of class B");
