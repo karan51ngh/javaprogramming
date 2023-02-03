@@ -1,3 +1,4 @@
+// 1 .java file can have only 1 public class
 class Player{
     int id;
     String name;
